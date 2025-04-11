@@ -1,6 +1,6 @@
-component "s3" {
+component "random" {
   
-  source = "./s3"
+  source = "./random"
 
   providers = {
     random = provider.random.this
