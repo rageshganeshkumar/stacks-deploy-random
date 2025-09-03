@@ -2,8 +2,3 @@ deployment "test" {
   
   
 }
-
-deployment "dev" {
-  
-  
-}
